@@ -1,0 +1,10 @@
+yfinance
+matplotlib
+babel
+seaborn
+statsmodels
+plotly
+prophet 
+scikit-learn
+openpyxl
+plotly
